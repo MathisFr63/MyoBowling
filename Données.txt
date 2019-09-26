@@ -1,0 +1,4 @@
+gyro de z / accelero de x quand on lance et qu'on veut la vitesse de la boule.
+Pour l'orientation de la balle, prendre la différence entre l'orientation y et l'orientation z
+
+Orientation de Z et W

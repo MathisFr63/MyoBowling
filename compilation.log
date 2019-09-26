@@ -1,0 +1,105 @@
+********************************************************************************
+*                     Thursday, March 15, 2018 6:19:42 PM                      *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.3.1f1
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: C:\Users\Mathis\Desktop\Prog\MyoBowling
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\Mathis\Desktop\Prog\MyoBowling\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-d4edb8e884635214e8ae739695bb6f78
+Exit code: 0
+Elapsed time: 0.82 sec
+
+- Output (1 line):
+0: Assets\Scripts\Ball.cs(8,23): warning CS0108: 'Ball.rigidbody' hides inherited member 'Component.rigidbody'. Use the new keyword if hiding was intended.
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\Mathis\Desktop\Prog\MyoBowling\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Assembly-CSharp.dll
+Exit code: 0
+Elapsed time: 0.22 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                     Thursday, March 15, 2018 6:23:49 PM                      *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.3.1f1
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: C:\Users\Mathis\Desktop\Prog\MyoBowling
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\Mathis\Desktop\Prog\MyoBowling\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-4599856ab4da74e4cb8ef904f248dc7b
+Exit code: 0
+Elapsed time: 0.80 sec
+
+- Output (1 line):
+0: Assets\Scripts\Ball.cs(8,23): warning CS0108: 'Ball.rigidbody' hides inherited member 'Component.rigidbody'. Use the new keyword if hiding was intended.
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\Mathis\Desktop\Prog\MyoBowling\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Assembly-CSharp.dll
+Exit code: 0
+Elapsed time: 0.27 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                     Thursday, March 15, 2018 6:28:08 PM                      *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.3.1f1
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: C:\Users\Mathis\Desktop\Prog\MyoBowling
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\Mathis\Desktop\Prog\MyoBowling\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-d6e4851013d5cd64b9f2858b9106fcb5
+Exit code: 0
+Elapsed time: 0.82 sec
+
+- Output (1 line):
+0: Assets\Scripts\Ball.cs(8,23): warning CS0108: 'Ball.rigidbody' hides inherited member 'Component.rigidbody'. Use the new keyword if hiding was intended.
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\Mathis\Desktop\Prog\MyoBowling\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Assembly-CSharp.dll
+Exit code: 0
+Elapsed time: 0.28 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+

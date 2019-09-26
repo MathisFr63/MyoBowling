@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoBowling", "Assembly-CSharp.csproj", "{7BADD29A-7C3E-44DC-A10C-CF0560BB75BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BADD29A-7C3E-44DC-A10C-CF0560BB75BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BADD29A-7C3E-44DC-A10C-CF0560BB75BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BADD29A-7C3E-44DC-A10C-CF0560BB75BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BADD29A-7C3E-44DC-A10C-CF0560BB75BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
